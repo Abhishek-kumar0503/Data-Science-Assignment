@@ -11,7 +11,7 @@
 
 - 👯 Clone this repo to your local machine.
   ```sh
-  git clone 
+  git clone https://github.com/Abhishek-kumar0503/Data-Science-Assignment.git
   ```
 ### Final step
 Open the juypter file and run it 😊😄....
